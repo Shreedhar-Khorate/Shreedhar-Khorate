@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/shreedhar-khorate-83ba002a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreedhar khorate" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shreedharkhorate/?igsh=cDJvMDRqNnVuY2Nj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreedharkhoate" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/shreedharlaptop/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreedhar khorate" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/shreedharlaptop" target="blank"><img align="center" src="https://yt3.googleusercontent.com/QHSRlsZ1dd73aFXa-tvXXKaLLMKT_oN_yt5AJD1P0JPaLRbY57vxd4OiySpqRnHeVLpTHDbY3A=s900-c-k-c0x00ffffff-no-rj" alt="shreedhar khorate" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/shreedharlaptop" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/h/58/hackerrank.svg" alt="shreedhar khorate" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,4 +32,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreedhar-khorate&show_icons=true&locale=en" alt="shreedhar-khorate" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreedhar-khorate&" alt="shreedhar-khorate" /></p>
