@@ -150,8 +150,7 @@ Enthusiastic college student dedicated to coding and developing innovative proje
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreedhar-Khorate&theme=github_dark"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shreedhar-Khorate"/>
+ 
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreedhar-Khorate&theme=react-dark&bg_color=0d0221&color=ffffff&line=6e44ff&point=00f5d4&area=true&hide_border=true"/>
   <br/>
