@@ -33,7 +33,7 @@ Enthusiastic college student dedicated to coding and developing innovative proje
 ---
 
 ## 📍 Quick Facts
-- 👯 I’m looking to collaborate with peoples having internest in coding and development
+- 👯 I’m looking to collaborate with peoples having interest in coding and development
 - 💬 Ask me about coding,AI/ML,Python,Hackathon.
 - 👨‍💻 *Projects* – All my project are avaliable [here](https://github.com/Shreedhar-Khorate)
 - 📧 *Email* – shreekhorate5@gmail.com
