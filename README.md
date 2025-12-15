@@ -37,7 +37,7 @@ Enthusiastic college student dedicated to coding and developing innovative proje
 - 💬 Ask me about coding,AI/ML,Python,Hackathon.
 - 👨‍💻 *Projects* – All my project are avaliable [here](https://github.com/Shreedhar-Khorate)
 - 📧 *Email* – shreekhorate5@gmail.com
-- 📃 *Resume* - [Check Resume](https://drive.google.com/file/d/1CnT-Ks_OiZRJsnIH1QcLBuZ8u0L--_3D/view)
+- 📃 *Resume* - [Check Resume](https://drive.google.com/file/d/1rSYWkt0dEF9m1cx80XUfjTW7muelliZx/view)
 - 🌐 *Portfolio* – [Click Here](https://shreedharkhorate-portfolio.netlify.app/)
 
 ---
