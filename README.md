@@ -113,7 +113,7 @@ Enthusiastic college student dedicated to coding and developing innovative proje
   <a href="https://x.com/shreedhar_05" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/shreedharlaptop/" target="_blank" style="text-decoration: none;">
+  <a href="https://leetcode.com/u/Shreedhar_Khorate05/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/profile/shreedharlaptop" target="_blank" style="text-decoration: none;">
@@ -132,7 +132,7 @@ Enthusiastic college student dedicated to coding and developing innovative proje
 |------|------|--------------|
 | 🥇 1st Place – Synergy’25 Hackathon | Feb 2025 | M.H. Saboo Siddik Polytechnic, Byculla |
 | 🥉 2nd Runner-Up – Technothon 2025 | Mar 2025 | Anantrao Pawar College of Engineering, Pune |
-| 🥈 1st Runner-Up – Nexathon 2025 | Oct 2025 | Anjuman-I-Islam's Kalsekar Technical Campus, New Panvel |
+| 🥈 1st Runner-Up – Nexathon 2025 | Nov 2025 | Anjuman-I-Islam's Kalsekar Technical Campus, New Panvel |
 
 
 ---
