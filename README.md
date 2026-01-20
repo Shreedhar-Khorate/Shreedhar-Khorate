@@ -152,7 +152,10 @@ Enthusiastic college student dedicated to coding and developing innovative proje
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreedhar-Khorate&theme=github_dark"/>
- 
+ <br/>
+   <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreedhar-Khorate&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=1f6feb&text_color=c9d1d9" height="180"/>
+  
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreedhar-Khorate&theme=react-dark&bg_color=0d0221&color=ffffff&line=6e44ff&point=00f5d4&area=true&hide_border=true"/>
   <br/>
@@ -161,7 +164,8 @@ Enthusiastic college student dedicated to coding and developing innovative proje
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shreedhar-Khorate&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shreedhar-Khorate&theme=github_dark"/>
 </p>
-
+ 
+ 
 ---
 
 <p align="center">
