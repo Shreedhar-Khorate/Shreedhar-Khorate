@@ -133,7 +133,7 @@ Enthusiastic college student dedicated to coding and developing innovative proje
 | 🥇 1st Place – Synergy’25 Hackathon | Feb 2025 | M.H. Saboo Siddik Polytechnic, Byculla |
 | 🥉 2nd Runner-Up – Technothon 2025 | Mar 2025 | Anantrao Pawar College of Engineering, Pune |
 | 🥈 1st Runner-Up – Nexathon 2025 | Nov 2025 | Anjuman-I-Islam's Kalsekar Technical Campus, New Panvel | 
-| 🥈 1st Runner-Up - Hack-Deck 2.0 | Jan 2026 | Athrav University, Malad |
+| 🥈 1st Runner-Up - Hack-Deck 2.0 | Jan 2026 | Athrav College of Engineering, Malad |
 
 
 ---
