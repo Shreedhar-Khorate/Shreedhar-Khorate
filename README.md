@@ -135,7 +135,7 @@ Enthusiastic college student dedicated to coding and developing innovative proje
 | 🥈 1st Runner-Up – Nexathon 2025 | Nov 2025 | Anjuman-I-Islam's Kalsekar Technical Campus, New Panvel | 
 | 🥈 1st Runner-Up - Hack-Deck 2.0 | Jan 2026 | Atharav University, Malad |
 | 🥇 Winner - Hack With Mumbai| Feb 2026 | Bharati Vidyapeeth Deemed University, Kharghar |
-| 🥇 Winner - MOSAIC-UI/UX Hacathon | Mar 2026 |  Ramrao Adik Institute of Technology, Nerul |
+| 🥇 Winner - MOSAIC-UI/UX Hackathon | Mar 2026 | Ramrao Adik Institute of Technology, Nerul |
 
 
 ---
